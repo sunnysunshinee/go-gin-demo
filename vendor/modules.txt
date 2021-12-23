@@ -1,0 +1,139 @@
+# github.com/360EntSecGroup-Skylar/excelize v1.4.2-0.20190322063759-677a22d99497
+## explicit
+github.com/360EntSecGroup-Skylar/excelize
+# github.com/Unknwon/com v0.0.0-20190214221849-2d12a219ccaf
+## explicit
+github.com/Unknwon/com
+# github.com/astaxie/beego v1.11.2-0.20190314181615-bc8fffe3477b
+## explicit
+github.com/astaxie/beego/validation
+# github.com/dgrijalva/jwt-go v3.2.1-0.20180921172315-3af4c746e1c2+incompatible
+## explicit
+github.com/dgrijalva/jwt-go
+# github.com/gin-contrib/sse v0.0.0-20190301062529-5545eab6dad3
+## explicit
+github.com/gin-contrib/sse
+# github.com/gin-gonic/gin v1.3.1-0.20190318031230-b40d4c175c07
+## explicit; go 1.12
+github.com/gin-gonic/gin
+github.com/gin-gonic/gin/binding
+github.com/gin-gonic/gin/internal/json
+github.com/gin-gonic/gin/render
+# github.com/go-ini/ini v1.42.1-0.20190217195415-ece0e89bb05a
+## explicit
+github.com/go-ini/ini
+# github.com/go-redis/redis v6.15.3-0.20190312110751-9ecae37814bc+incompatible
+## explicit
+github.com/go-redis/redis
+github.com/go-redis/redis/internal
+github.com/go-redis/redis/internal/consistenthash
+github.com/go-redis/redis/internal/hashtag
+github.com/go-redis/redis/internal/pool
+github.com/go-redis/redis/internal/proto
+github.com/go-redis/redis/internal/util
+# github.com/go-sql-driver/mysql v1.4.1
+## explicit
+github.com/go-sql-driver/mysql
+# github.com/golang/protobuf v1.5.2
+## explicit; go 1.9
+github.com/golang/protobuf/proto
+# github.com/jinzhu/gorm v1.9.3-0.20190310121721-8b07437717e7
+## explicit
+github.com/jinzhu/gorm
+github.com/jinzhu/gorm/dialects/mysql
+# github.com/jinzhu/inflection v0.0.0-20180308033659-04140366298a
+## explicit
+github.com/jinzhu/inflection
+# github.com/json-iterator/go v1.1.5
+## explicit
+github.com/json-iterator/go
+# github.com/mattn/go-isatty v0.0.7
+## explicit
+github.com/mattn/go-isatty
+# github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd
+## explicit
+github.com/modern-go/concurrent
+# github.com/modern-go/reflect2 v1.0.1
+## explicit
+github.com/modern-go/reflect2
+# github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826
+## explicit
+github.com/mohae/deepcopy
+# github.com/onsi/ginkgo v1.16.5
+## explicit; go 1.16
+# github.com/onsi/gomega v1.17.0
+## explicit; go 1.16
+# github.com/robfig/cron v1.2.0
+## explicit
+github.com/robfig/cron
+# github.com/stretchr/testify v1.5.1
+## explicit; go 1.13
+# github.com/tealeg/xlsx v0.0.0-20181024002044-dbf71b6a931e
+## explicit
+github.com/tealeg/xlsx
+# github.com/ugorji/go/codec v0.0.0-20190316192920-e2bddce071ad
+## explicit
+github.com/ugorji/go/codec
+# go.uber.org/atomic v1.3.3-0.20190226011305-5328d69c76a9
+## explicit
+go.uber.org/atomic
+# go.uber.org/multierr v1.1.1-0.20180122172545-ddea229ff1df
+## explicit
+go.uber.org/multierr
+# go.uber.org/zap v1.9.2-0.20190215012540-d2a364dac1d9
+## explicit
+go.uber.org/zap
+go.uber.org/zap/buffer
+go.uber.org/zap/internal/bufferpool
+go.uber.org/zap/internal/color
+go.uber.org/zap/internal/exit
+go.uber.org/zap/zapcore
+# golang.org/x/net v0.0.0-20210428140749-89ef3d95e781
+## explicit; go 1.11
+# golang.org/x/sys v0.0.0-20210423082822-04245dca01da
+## explicit; go 1.12
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+# google.golang.org/appengine v1.4.0
+## explicit
+google.golang.org/appengine/cloudsql
+# google.golang.org/protobuf v1.26.0
+## explicit; go 1.9
+google.golang.org/protobuf/encoding/prototext
+google.golang.org/protobuf/encoding/protowire
+google.golang.org/protobuf/internal/descfmt
+google.golang.org/protobuf/internal/descopts
+google.golang.org/protobuf/internal/detrand
+google.golang.org/protobuf/internal/encoding/defval
+google.golang.org/protobuf/internal/encoding/messageset
+google.golang.org/protobuf/internal/encoding/tag
+google.golang.org/protobuf/internal/encoding/text
+google.golang.org/protobuf/internal/errors
+google.golang.org/protobuf/internal/filedesc
+google.golang.org/protobuf/internal/filetype
+google.golang.org/protobuf/internal/flags
+google.golang.org/protobuf/internal/genid
+google.golang.org/protobuf/internal/impl
+google.golang.org/protobuf/internal/order
+google.golang.org/protobuf/internal/pragma
+google.golang.org/protobuf/internal/set
+google.golang.org/protobuf/internal/strs
+google.golang.org/protobuf/internal/version
+google.golang.org/protobuf/proto
+google.golang.org/protobuf/reflect/protodesc
+google.golang.org/protobuf/reflect/protoreflect
+google.golang.org/protobuf/reflect/protoregistry
+google.golang.org/protobuf/runtime/protoiface
+google.golang.org/protobuf/runtime/protoimpl
+google.golang.org/protobuf/types/descriptorpb
+# gopkg.in/go-playground/validator.v8 v8.18.2
+## explicit
+gopkg.in/go-playground/validator.v8
+# gopkg.in/ini.v1 v1.66.2
+## explicit
+# gopkg.in/natefinch/lumberjack.v2 v2.0.0-20170531160350-a96e63847dc3
+## explicit
+gopkg.in/natefinch/lumberjack.v2
+# gopkg.in/yaml.v2 v2.4.0
+## explicit; go 1.15
+gopkg.in/yaml.v2
